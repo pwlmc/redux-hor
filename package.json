@@ -14,7 +14,7 @@
     "clean": "rm -rf lib"
   },
   "peerDependencies": {
-    "redux": "^4.0.0"
+    "redux": "^5.0.0"
   },
   "devDependencies": {
     "@types/jest": "~26.0.0",
@@ -46,7 +46,7 @@
     ]
   },
   "dependencies": {
-    "redux": "^4.0.0"
+    "redux": "^5.0.0"
   },
   "keywords": [
     "redux",
